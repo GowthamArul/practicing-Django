@@ -7,7 +7,7 @@
 
 
 2. Products
-<p>For sample i've added two products "Offer and Products" using Django in the Models.py module, in the products i'm adding one more item for an exapmle.</p>
+<p>For sample i've added two products "Offer and Products" using Django, in the products i'm adding one more item for an exapmle.</p>
   
   
 ![Sample 2](https://user-images.githubusercontent.com/34019212/83236865-e0249a80-a1b1-11ea-9b74-633e924dd70f.PNG)
